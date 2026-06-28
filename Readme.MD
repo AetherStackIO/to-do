@@ -1,6 +1,6 @@
-To-Do List Web App
+## To-Do List Web App
 
-🎯 Goal of the project
+# 🎯 Goal of the project
     You will build a website where you can:
     
     add tasks (example: “study”, “clean the room”)
@@ -10,7 +10,7 @@ To-Do List Web App
     It’s basically a digital checklist.
 ----------------------------------------------------------------------------------
   
-🧩 STEP-BY-STEP: What you need to do
+# 🧩 STEP-BY-STEP: What you need to do
     1. 🏗️ Build the basic structure (HTML idea)
     
     Think of your page as having 3 main parts:
